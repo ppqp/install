@@ -2,4 +2,3 @@
 
 Repository with install instructions.
 
-wtf
