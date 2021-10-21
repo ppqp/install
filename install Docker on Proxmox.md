@@ -74,7 +74,8 @@ echo \
  systemctl enable docker.service
  systemctl enable containerd.service
  
- 
+ # test
+ docker run hello-world
 ```
 
 
